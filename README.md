@@ -24,7 +24,7 @@ print(obj.getPowerList(n = 3))
 [(2, 1.0), (4, 0.961478955420308), (-2, -0.5279933204980993)]
 ```
 
-- first line of output shows the first three favorable power of input (most favorable to least favorable order. 
+- first line of output shows the first three most favorable power of input (most favorable to least favorable order). 
 - second line of output consists favorable powers and corresponding degree of correlation value (eg., the tuple (2, 1.0) denotes that the output is 100% directly proportional to the input).
 
 ### Example 2
